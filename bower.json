@@ -1,0 +1,14 @@
+{
+  "name": "jssearch",
+  "description": "Full-text client side javascript search engine",
+  "main": "jssearch.js",
+  "authors": [
+    "Alfonso Presa"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "lodash": "~3.10.1"
+  }
+}
