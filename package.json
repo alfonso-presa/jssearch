@@ -1,0 +1,20 @@
+{
+  "name": "jssearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jssearch.js",
+  "scripts": {
+    "test": "node_modules/.bin/karma start --single-run"
+  },
+  "author": "Alfonso Presa",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "karma": "^0.13.16",
+    "jasmine-core": "^2.4.1",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.6"
+  }
+}
